@@ -1,0 +1,1 @@
+# hibernate-release-5.4.0.Final
